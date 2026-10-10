@@ -1,0 +1,42 @@
+{
+  "item": {
+    "id": "com.ppyycc.dict",
+    "restype": "quick_app",
+    "name": "DICT英汉词典",
+    "description": "这是一个适用于小米手环的快应用英汉词典，免费，便捷。\n约6W+单词，近千条短语，采用公开词库，迅即搜索和复习板块帮助您更好地背单词。\n\n声明：本项目由deepseek harness协助开发。所使用组件、词库、文章均为非商业用途的公开资源。本项目也将进行开源，感兴趣的开发者可以共同交流，也希望用户能多多提些意见~",
+    "preview": [
+      "media/Vela_Virtual_Device-2026-09-24-19-10-54.png",
+      "media/Vela_Virtual_Device12345678-2026-10-10-21-40-23.png",
+      "media/Vela_Virtual_Device12345678-2026-10-10-21-40-52.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "ppyycc",
+        "bindABAccount": true
+      },
+      {
+        "name": "Deepseek Harness（辅助开发）",
+        "bindABAccount": false
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.2.7c",
+      "file_name": "downloads/com.ppyycc.dict.release.1.2.7c.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {
+    "trialDownloads": {
+      "xmb9p": {
+        "version": "1.0.0.rm",
+        "file_name": "downloads/trial/com.ppyycc.dict.release.1.0.0.rm.rpk",
+        "versionCode": 1
+      }
+    }
+  }
+}
