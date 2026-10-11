@@ -7,7 +7,8 @@
     "preview": [
       "media/preview.png",
       "media/preview 1.png",
-      "media/preview 2.png"
+      "media/preview 2.png",
+      "media/preview 3.png"
     ],
     "icon": "media/icon.png",
     "cover": "media/cover.png",
@@ -15,10 +16,6 @@
       {
         "name": "ppyycc",
         "bindABAccount": true
-      },
-      {
-        "name": "Deepseek Harness（辅助开发）",
-        "bindABAccount": false
       }
     ]
   },
