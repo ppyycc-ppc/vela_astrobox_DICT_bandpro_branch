@@ -22,9 +22,15 @@
   "links": [],
   "downloads": {
     "xmb10p": {
-      "version": "1.2.7c",
-      "file_name": "downloads/com.ppyycc.dict.release.1.2.7c.rpk",
-      "versionCode": 1
+      "version": "1.2.8d",
+      "file_name": "downloads/com.ppyycc.dict.release.1.2.8d.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "1.2.8d",
+          "content": "中等更新：\n1、极大减小占用体积，由原来近50MB到目前仅25MB一下的内存占用\n2、统一了很多全局用法、全局函数，极大减小代码冗余\n3、添加了单词例句，涵盖较常用的单词\n4、优化一部分ui效果"
+        }
+      ]
     }
   },
   "ext": {}
